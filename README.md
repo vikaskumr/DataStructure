@@ -1,2 +1,2 @@
 
-# DataStructure Every Developer should know 
+# Collections of data structure questions in JavaScript
