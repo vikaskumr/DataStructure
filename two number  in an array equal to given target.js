@@ -7,7 +7,9 @@ run a for loop and for every element calculate the difference between target and
 
 if(you find that difference in obj then console.log(obj[diff], i));
 else
-make an object to store the value */
+make an object to store the value *
+
+return an array of indices of elements whose sum forms the target number/
 
 let arr = [11, 15, 2, 7, 11];
 
