@@ -1,2 +1,2 @@
 
-# Collections of data structure questions in JavaScript
+# Collections of questions solved in JavaScript
